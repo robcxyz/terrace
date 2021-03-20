@@ -1,5 +1,5 @@
 boto3==1.9.196
-Jinja2==2.10.1
+Jinja2==2.11.3
 poyo==0.5.0
 pyhcl==0.3.12
 fire==v0.2.1
